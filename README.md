@@ -38,13 +38,13 @@ Follow the steps below to add a new token：
     ]
 }
 ```
-* `address`[Required]: your token address.
-* `symbol`[Required]: your token symbol.
-* `name`[Required]: your token name.
-* `logoURI`[Required]: the logo URI of your token.
-* `homepage`[Required]: the home page of your token.
+* `address`[Required]: your token address TK96f3YJoEpRbsiEFKmM7P5UDWiHuzy11m
+* `symbol`[Required]: your token symbol.TRC-20
+* `name`[Required]: your token name.TRX
+* `logoURI`[Required]: the logo URI of your token.trx
+* `homepage`[Required]: the home page of your token.trx
 * `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
-* `existingMarkets`[Required]: where to trade with your token.
+* `existingMarkets`[Required]: where to trade with your token.trx
 3) Submit PR with the changed JSON file.
 
 
